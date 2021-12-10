@@ -1,6 +1,3 @@
-# bot-ibge-bs4
-
-
 # Bot-Ibge-Bs4
 
 The project aims to collect data from the Ibge website to be stored in a spreadsheet and have their information properly handled.
